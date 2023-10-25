@@ -50,7 +50,7 @@ We have decided to use MariaDB as locally hosted encrypted backend.
 ## Consequences
 
 Unknown Variable:
-- We have to learn the nuances as we were primarily taught Oracle*SQL for our course.
+- We would need to learn the nuances of using MariaDB as we were primarily taught Oracle*SQL for our course.
 
 MariaDB Limitations:
 - Longterm Support:
