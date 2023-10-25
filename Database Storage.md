@@ -5,8 +5,6 @@ Table of Contents:
     * [Rationale](#rationale)
     * [Consequences](#consequences)
 
-<br/>
-
 # Architectural Decision Record (ADR) - Database Storage
 
 ## Context
@@ -29,7 +27,7 @@ We have decided to use MariaDB as locally hosted encrypted backend.
 
 - MariaDB:
 	- Free open source license: GPL-2.0
-	- [Receives active development mostly from MariaDB Corporation, Amazon, Codership, and independant contributors](https://mariadb.org/mariadb-11-0-3-10-11-5-10-10-6-10-9-8-10-6-15-10-5-22-10-4-31-now-available/).
+	- [Receives active development from: MariaDB Corporation, Amazon, Codership, and independant contributors](https://mariadb.org/mariadb-11-0-3-10-11-5-10-10-6-10-9-8-10-6-15-10-5-22-10-4-31-now-available/).
 	- Low-barrier-to-entry:
 		- Easy to install and manage with open documentation.
 		- Accessible on most operating systems (Windows + Linux).
@@ -51,7 +49,7 @@ We have decided to use MariaDB as locally hosted encrypted backend.
 
 ## Consequences
 
-Unknown Variables:
+Unknown Variable:
 - We have to learn the nuances as we were primarily taught Oracle*SQL for our course.
 
 MariaDB Limitations:
