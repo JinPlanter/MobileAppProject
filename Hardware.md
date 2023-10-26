@@ -11,7 +11,7 @@ Table of Contents:
 
 ### Context
 
-- blah blah blah group project blah blah blah
+- Due to the fact that mobile phones come with hardware, we should look into the possibility of using them for our mobile app.
 
 ### Decision
 
@@ -21,12 +21,10 @@ Table of Contents:
 
 ### Rationale
 
-- what do you MEEEEEEAN tbh
-
-- Simplicity I guess, its not super duper complicated yo
+- Our app does not need a lot of the hardware components as it is an app that calculates expenses (which is done using the software components)
 
 <br/>
 
 ### Consequences
 
-- Our app isnt the flashiest in the world, its not going to know when and where you make every purchase, so its up to the user to be responsible and use the app properly.
+- There will be no negative, nor positive consequences.
